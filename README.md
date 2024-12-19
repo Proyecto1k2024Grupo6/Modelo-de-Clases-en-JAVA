@@ -1,6 +1,4 @@
 ### Modelo de Clases en Java
-## Imagen del Modelo de Clases
->![img.png](img.png)
 ## Delegación del trabajo
 * Creación del diagrama de clases
 > Sergio y Alejandro Expósito, han creado las clases, sus atributos, sus métodos y relaciones, intentando ser lo más fieles al modelo Entidad - Relación.
