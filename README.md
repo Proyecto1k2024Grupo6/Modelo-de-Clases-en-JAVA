@@ -1,4 +1,14 @@
 ### Modelo de Clases en Java
+
+##  Repositorios 
+Aquí tienes otros repositorios:
+- [Proyecto](https://github.com/Proyecto1k2024Grupo6/Proyecto)
+- [XML y Jason a Java](https://github.com/Proyecto1k2024Grupo6/XML-y-Jason-a-Java)
+- [Base de Datos](https://github.com/Proyecto1k2024Grupo6/Base-de-datos) 
+- [Modelo de clases UML](https://github.com/Proyecto1k2024Grupo6/Modelo-de-Clases-UML) 
+
+
+
 ## Delegación del trabajo
 * Creación del diagrama de clases
 > Sergio y Alejandro Expósito, han creado las clases, sus atributos, sus métodos y relaciones, intentando ser lo más fieles al modelo Entidad - Relación.
